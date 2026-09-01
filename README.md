@@ -1,6 +1,5 @@
 # sitio-web
-![Descubriendo Panamá](<img width="1024" height="339" alt="banner" src="https://github.com/user-attachments/assets/3efdf99d-fc1a-4c58-b5e5-775fec68bb61" />
-)
+![Descubriendo Panamá](<img width="1024" height="339" alt="banner" src="https://github.com/user-attachments/assets/d7dc5f24-6738-4de4-a3d3-8b94fb2ab8ef" />)
 
 # 🇵🇦 Descubriendo Panamá: Un Viaje por sus Maravillas
 
